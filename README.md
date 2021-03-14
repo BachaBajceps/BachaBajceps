@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BachaBajceps
+- 👀 I’m interested in CSGO:CHEATS
+- 🌱 I’m currently learning C#
