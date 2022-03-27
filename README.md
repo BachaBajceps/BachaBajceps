@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @BachaBajceps
-- 👀 I’m interested in CSGO:CHEATS
-- 🌱 I’m currently learning a lot
+- 🌱 I’m currently learning a Web Development
